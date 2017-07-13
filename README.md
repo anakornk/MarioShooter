@@ -1,5 +1,6 @@
 # Mario Shooter
-A 2d two player shooter game created with Gosu in 2 hours.
+A 2d two player shooter game created with Gosu in 2 hours during Le Wagon's Bootcamp.
+![mario](https://user-images.githubusercontent.com/8156002/28160064-9fe3bd2c-67f1-11e7-94b7-740bbe1ceb29.gif)
 
 
 ## CONTROLS
