@@ -1,9 +1,7 @@
 # Mario Shooter
----
 A 2d two player shooter game created with Gosu in 2 hours.
 
 
----
 ## CONTROLS
 ### Red Mario (Player 1)
 W: Jump
